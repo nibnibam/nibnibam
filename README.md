@@ -176,7 +176,7 @@
 
 ![操场](./hnuPicWork/操场.jpg)
 
-![东综   马21](./hnuPicWork/东综   马21.jpg)
+![东综   马21](./hnuPicWork/东综马21.jpg)
 
 ![海报](./hnuPicWork/海报.jpg)
 
